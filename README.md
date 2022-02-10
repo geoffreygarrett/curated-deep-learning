@@ -13,3 +13,6 @@ list, it is impressive to say the least.
 
 ## Noteworthy websites 🌐
 - [Distill](https://distill.pub), a modern medium for presenting research.
+
+## Lectures worth watching 📺
+- [DeepMind x UCL | Deep Learning Lecture Series 2020](https://youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
